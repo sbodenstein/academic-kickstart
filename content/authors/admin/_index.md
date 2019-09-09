@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Wolfram Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Theoretical Physics
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
