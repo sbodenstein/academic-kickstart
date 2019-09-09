@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 # [[main]]
 #   name = "Posts"
@@ -16,17 +16,17 @@
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 3
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 4
 
 # [[main]]
 #   name = "Contact"
@@ -35,7 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-   name = "Resume"
-   url = "uploads/cv.pdf"
-   weight = 70
+# [[main]]
+#    name = "Resume"
+#    url = "uploads/cv.pdf"
+#    weight = 5

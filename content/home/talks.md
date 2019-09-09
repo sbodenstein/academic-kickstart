@@ -10,6 +10,8 @@ weight = 3  # Order that this section will appear.
 title = "Talks"
 subtitle = ""
 
+list_format = 1
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
