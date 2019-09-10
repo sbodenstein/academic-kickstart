@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Wolfram Research
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Reinforcement Learning
-- Bayesian Inference
+- Reinforcement Learning and Unsupervised Learning
 - Deep Learning Framework Developement
+- Bayesian Inference
+- Causal Inference
+- Physics
 
 education:
   courses:
   - course: PhD in Theoretical Physics
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University of Cape Town
+    year: 2014
+  - course: BSc in Mathematics and Physics
+    institution: University of Cape Town
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,9 +60,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,3 +75,6 @@ email: ""
 ---
 
 
+Yet another theoretical physicist who jumped onto the machine learning bandwagon in 2013 post-AlexNet.
+
+Currently on a sabbatical after spending 5 years working on machine learning at [Wolfram Research](http://www.wolfram.com/).

@@ -1,2 +1,5 @@
 static/uploads/* filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
+static/pdf/*.pdf filter=lfs diff=lfs merge=lfs -text
+static/images/* filter=lfs diff=lfs merge=lfs -text
+static/pdf/* filter=lfs diff=lfs merge=lfs -text

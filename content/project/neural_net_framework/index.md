@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Road to Reality Solutions"
-summary: "Solutions to Penrose's The Road to Reality."
+title: ""
+summary: ""
 authors: []
-tags: ["penrose", "maths"]
-categories: ["Maths"]
-date: 2009-09-09T19:52:45+02:00
+tags: []
+categories: []
+date: 2019-09-10T16:12:37+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,10 +14,10 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: 
+image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "pdf/PenroseSolutions.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,8 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+https://reference.wolfram.com/language/guide/NeuralNetworks.html
+https://www.oreilly.com/ideas/apache-mxnet-in-the-wolfram-language
 
-I really enjoyed Penrose's [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality), and decided it would be fun (and educational) to do many of the problems in the book. Penrose promised that solutions would appear on the site [www.roadsolutions.ox.ac.uk](www.roadsolutions.ox.ac.uk), but this never happened. So I decided to write up my solutions in case they would be useful to others. 
-
-The solutions are {{% staticref "pdf/PenroseSolutions.pdf" "newtab" %}}here{{% /staticref %}}.
-
+https://github.com/apache/incubator-mxnet/graphs/contributors
