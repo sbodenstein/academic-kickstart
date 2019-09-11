@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Indaba Reinforcement Learning Tutorial"
-summary: "MongoLink is a package for interacting with MongoDB inside the Wolfram Language via the high-performance MongoDB C driver."
+summary: "Designing a reinforcement learning tutorial appropriate for a very wide audience."
 authors: []
-tags: ["database", "mongodb", "data science", "machine learning"]
-categories: ["Data Science"]
+tags: ["tutorial", "reinforcement learning", "machine learning"]
+categories: ["Machine Learning"]
 date: 2018-02-01T19:52:45+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/WolframResearch/MongoLink"
+url_code: "https://github.com/sbodenstein/Tutorials"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,6 +40,3 @@ url_video: ""
 slides: ""
 ---
 
-[MongoLink](https://github.com/WolframResearch/MongoLink) is a package for interacting with [MongoDB](https://www.mongodb.com/) inside the [Wolfram Language](https://en.wikipedia.org/wiki/Wolfram_Language#targetText=The%20Wolfram%20Language%20is%20a,and%20the%20Wolfram%20Programming%20Cloud.) via the high-performance [MongoDB C driver](http://mongoc.org/). This package [now ships as part of Mathematica](https://reference.wolfram.com/language/MongoLink/guide/MongoLinkOperations.html).
-
-I wrote this package as one part of a framework for managing the Wolfram Machine Learning teams terabyte-scale datasets I lead the development on.

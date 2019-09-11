@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hello"
-summary: "asdf"
+title: "Mathematica Neural Net Framework"
+summary: "Was one of the two main creators of the Mathematica Neural Net Framework"
 authors: []
 tags: ["machine learning"]
 categories: []
@@ -39,7 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-https://reference.wolfram.com/language/guide/NeuralNetworks.html
-https://www.oreilly.com/ideas/apache-mxnet-in-the-wolfram-language
 
-https://github.com/apache/incubator-mxnet/graphs/contributors
+The [Mathematica Neural Net Framework](https://reference.wolfram.com/language/guide/NeuralNetworks.html) is a high-level deep learning framework that is part of the Wolfram Language/Mathematica, rather than being a standalone package. Some nice features of this framework: 
+
+- Automatic support variable-length sequences without the need for padding, without sacrificing performance on GPUs. I co-wrote a [post for O'Reilly](https://www.oreilly.com/ideas/apache-mxnet-in-the-wolfram-language) explaining some of the tricks we used to achieve this.
+- Uses MXNet as a backend (like how Keras uses TensorFlow). I added a signficant number of features to MXNet to support things like variable-length sequence handling.
+- Supports multi-GPU training, so designed to be scalable.
+- A belief that having access to an extensive repository of pre-trained nets is essential for a high-level deep learning framework. I lead the creation of the [Wolfram Neural Net Repository](https://resources.wolframcloud.com/NeuralNetRepository/) for this goal.
+
+
+
