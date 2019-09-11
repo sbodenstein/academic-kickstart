@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Will Julia or Swift take Pythons Machine Learning Crown?"
-event: "South African Radio Astronomy Observatory Data Science Seminar"
-event_url:
-location: "Cape Town, South Africa"
+title: "A Shallow Tour of Deep Learning"
+event: "Wolfram Technology Conference"
+event_url: 
+location: "Champaign, United States"
 summary:
-abstract: "Python has become by far the most popular language amongst machine learning practitioners. Yet it suffers from a number of major limitations, such as slow execution speed. This usually requires developers to use a separate language (C/C++) for performance-critical codepaths, reducing productivity. Julia is a new language that attempts to give users the same performance as C/C++ via just-in-time compilation, whilst being as easy to use as Python. This talk will introduce Julia, and walk through some of its advantages over Python. In addition, we will look at why many people, such as Yann LeCun, believe that future deep learning frameworks will require moving away from Python, and why Julia and Swift are currently the leading contenders for such new languages."
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-05-29T15:32:21+02:00
-#date_end: 2019-09-09T15:32:21+02:00
+date: 2015-10-22T15:26:50+02:00
+#date_end: 2019-09-09T15:26:50+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-09-09T15:32:21+02:00
+publishDate: 2019-09-09T15:26:50+02:00
 
 authors: []
 tags: []
@@ -43,8 +43,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "/pdf/2019_talk_julia_swift.pdf"
-url_video: 
+url_pdf:
+url_video: "https://youtu.be/cXRJlPkhnmA?list=PLxn-kpJHbPx0po0k_FiuFqDuVotoZhX7_"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
