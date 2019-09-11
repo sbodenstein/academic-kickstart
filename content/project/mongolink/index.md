@@ -4,7 +4,7 @@
 title: "MongoLink"
 summary: "MongoLink is a package for interacting with MongoDB inside the Wolfram Language via the high-performance MongoDB C driver."
 authors: []
-tags: ["database", "mongodb"]
+tags: ["database", "mongodb", "data science", "machine learning"]
 categories: ["Data Science"]
 date: 2018-02-01T19:52:45+02:00
 

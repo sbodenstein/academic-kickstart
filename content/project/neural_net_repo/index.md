@@ -4,7 +4,7 @@
 title: "Wolfram Neural Net Repository"
 summary: "Lead the development of the Wolfram Neural Net Repository."
 authors: []
-tags: []
+tags: ["machine learning", "neural networks"]
 categories: []
 date: 2019-09-10T16:10:54+02:00
 
