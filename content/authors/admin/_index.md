@@ -21,8 +21,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Reinforcement Learning and Unsupervised Learning
-- Deep Learning Framework Developement
+- Unsupervised and Reinforcement Learning
+- Deep Learning Framework Development
 - Bayesian Inference
 - Causal Inference
 - Physics
