@@ -37,5 +37,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "Resume"
-   url = "uploads/cv.pdf"
+   url = "pdf/bodenstein_resume.pdf"
    weight = 4
